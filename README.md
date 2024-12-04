@@ -48,8 +48,7 @@ For this portfolio, all data displayed is mock or generalized, to protect client
 
 ---
 
-## Screenshots
-*(Replace placeholders with your uploaded screenshot links)*  
+## Screenshots 
 ![Dashboard Overview](GeneralPanel.png)
 ![Dashboard Overview](Behaviors.png)
 

@@ -1,5 +1,7 @@
 # Call Center Performance Dashboard
 
+![banner](GeneralPanel.png)
+
 ## Overview
 This interactive dashboard, developed in **Looker Studio**, provides the performance team of a call center with real-time insights into key operational metrics. It empowers the team to monitor, analyze, and improve overall efficiency by focusing on critical performance indicators.
 
@@ -48,7 +50,8 @@ For this portfolio, all data displayed is mock or generalized, to protect client
 
 ## Screenshots
 *(Replace placeholders with your uploaded screenshot links)*  
-![Dashboard Overview](link-to-screenshot.png)
+![Dashboard Overview](GeneralPanel.png)
+![Dashboard Overview](Behaviors.png)
 
 ---
 
